@@ -1,5 +1,9 @@
 ###Hi there, I'm Alex - an ordinary front-end learner 👋
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/wulala18/count.svg" />
+</p>
 
 ##This is the place where i opensource stuff and upload boring project 🤣
 
@@ -13,6 +17,9 @@
 
 <br />
 <br />
+
+### Languages and Tools:
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wulala18&show_icons=true&theme=dark)
