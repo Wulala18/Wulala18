@@ -10,7 +10,7 @@ This is the place where i opensource stuff and upload boring project 🤣
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wulala18&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wulala18&show_icons=true&theme=dark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wulala18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
