@@ -1,7 +1,7 @@
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 <br />
 
-### Hi there, I'm [Alex!](https://wulala18.github.io) 👋
+# Hi there, I'm [Alex!](https://github.com/Wulala18) 👋
 
 ##This is the place where i opensource stuff and upload boring project 🤣
 
