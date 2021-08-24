@@ -4,7 +4,6 @@
 # Hi there, I'm [Alex!](https://github.com/Wulala18) 👋
 
 ##This is the place where i opensource stuff and upload boring project 🤣
-
 - 🔭 I’m currently working on random cool stuff
 - 🌱 I’m currently learning php and JS
 - 🎧 Fun fact: I love to watch movie and listen music
