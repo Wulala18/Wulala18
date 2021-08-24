@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning php and JS
 - 🎧 Fun fact: I love to watch movie and listen music
 
+
 ### Connect with me:
 
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wulala18)  [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alex-lim-58158b1b1/)  
