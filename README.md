@@ -23,12 +23,11 @@ This is the place where i opensource stuff and upload boring project 🤣
 ---
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wulala18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wulala18&show_icons=true&theme=dark)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wulala18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
