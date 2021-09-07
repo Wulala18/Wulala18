@@ -5,7 +5,7 @@
 
 This is the place where i opensource stuff and upload boring project 🤣
 - 🔭 I’m currently working on random cool stuff
-- 🌱 I’m currently learning php and JS
+- 🌱 I’m currently learning php, JS and Adobe XD
 - 🎧 Fun fact: I love to watch movie and listen music
 
 ---
